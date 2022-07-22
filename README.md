@@ -2,7 +2,7 @@
 
 ### Este repositorio tem por objetivo apresentar o desafio de codigo 2 proposto pelo bootcamp Santander Code Girls, da Dio.
 
-#Implementacoes:
+Implementacoes:
 
 => Um package de nome "bootcamp" foi criado;
 => Dentro do package procurei adicionar uma classe bootcamp(main), cursos, devs e de mentorias;
